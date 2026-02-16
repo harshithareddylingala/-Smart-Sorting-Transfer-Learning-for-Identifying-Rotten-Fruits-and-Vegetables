@@ -1,1 +1,1 @@
-This files Contains Project report pdf
+This file contains the project report of our Smart Sorting Project
